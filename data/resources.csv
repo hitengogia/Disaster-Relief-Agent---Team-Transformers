@@ -1,0 +1,16 @@
+id,location,category,quantity,contact,phone,status
+1,Delhi,food,100,NGO_Annapurna,9990001111,available
+2,Delhi,medicine,25,RedCross_Delhi,9990002222,available
+3,Mumbai,shelter,20,NGO_Aashray,9990003333,available
+4,Mumbai,water,500,MunicipalCorp_Mumbai,9990004444,available
+5,Chennai,food,50,NGO_FoodForAll,9990005555,available
+6,Chennai,medicine,12,RedCross_Chennai,9990006666,busy
+7,Bengaluru,shelter,10,NGO_Sahayak,9990007777,available
+8,Kolkata,transport,5,NGO_QuickResponse,9990008888,available
+9,Kolkata,food,40,NGO_AnnaSewa,9990009999,available
+10,Delhi,shelter,60,GovShelter_Delhi,9990010101,available
+11,Hyderabad,water,300,NGO_JalSeva,9990011111,available
+12,Hyderabad,medicine,10,RedCross_Hyderabad,9990012121,available
+13,Pune,transport,4,NGO_RapidAid,9990013131,available
+14,Pune,food,25,NGO_PuneRelief,9990014141,available
+15,Chennai,shelter,8,NGO_Aashray_Chennai,9990015151,available

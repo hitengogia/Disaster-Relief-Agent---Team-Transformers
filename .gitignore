@@ -1,0 +1,13 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.venv/
+.env
+data/agent_logs.db
+data/urgency_model.joblib
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

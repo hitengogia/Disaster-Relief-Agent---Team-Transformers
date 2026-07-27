@@ -1,0 +1,16 @@
+id,location,category,quantity,urgency,description,contact_status
+1,Delhi,food,50,9,Flood victims stranded without food for 2 days,pending
+2,Delhi,medicine,20,10,Elderly patients need insulin urgently,pending
+3,Mumbai,shelter,15,7,Families displaced after building collapse,pending
+4,Mumbai,water,200,8,Contaminated water supply in low-lying areas,pending
+5,Chennai,food,80,6,Community kitchen ran out of rice and dal,pending
+6,Chennai,medicine,10,9,First-aid supplies needed for injury camp,pending
+7,Bengaluru,shelter,25,5,Temporary shelter needed for evacuated residents,pending
+8,Kolkata,transport,3,7,Need vehicles to move patients to hospital,pending
+9,Kolkata,food,60,4,Relief camp requesting food supplement,pending
+10,Delhi,shelter,40,8,Tent city required after building damage,pending
+11,Hyderabad,water,150,6,Water tankers needed for relief camp,pending
+12,Hyderabad,medicine,15,8,Antibiotics and bandages required,pending
+13,Pune,transport,2,5,Ambulance required for remote village,pending
+14,Pune,food,30,3,Snacks and dry rations for volunteers,pending
+15,Chennai,shelter,10,9,Urgent shelter for families near flooded river,pending
